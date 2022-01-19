@@ -1,0 +1,23 @@
+.runner {
+  position: absolute;
+  bottom: 0px;
+  width: 60px;
+  height: 60px;
+  background-color: #61dafb;
+  caret-color: transparent;
+  border: 0px;
+  color: transparent;
+}
+.obstacle {
+  position: absolute;
+  bottom: 0px;
+  width: 60px;
+  height: 60px;
+  background-color: darkslategrey;
+  border: red solid;
+  background-size: 100px;
+}
+span{
+  font-size: 10px;
+  font-weight: bold;
+}
