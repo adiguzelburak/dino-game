@@ -8,5 +8,5 @@ Run for game `npm start` or `yarn start`
 
 ## Game Video 
 
-![](/public/dinogame.gif)
+![dinogame](https://user-images.githubusercontent.com/67753295/150081591-8ac7ef49-ee11-468e-8a9d-964bd235448d.gif)
 
